@@ -1,1 +1,1 @@
-select * from asd1
+select * from asd
